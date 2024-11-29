@@ -1,0 +1,166 @@
+* {
+    margin: 0;
+    padding: 0%;
+    font-family: sans-serif;
+}
+
+html, body {
+    overflow-x: hidden;
+    background-color: bisque;
+}
+
+
+/* logo work......... */
+.logo {
+    width: 5%;
+    height: auto;
+    padding: 20px;
+    margin-top: 35px;
+    margin-left: 150px;
+}
+
+/* ................... */
+
+
+
+
+/* navbar work.............. */
+.navtabs p {
+    list-style: none;
+    display: inline-block;
+    padding: 20px;
+    padding-bottom: 50px;
+    font-size: 18px;
+    margin-right: 20px;
+}
+
+
+.navtabs a {
+    text-decoration: none;
+    color: black;
+}
+
+.navtabs a:hover {
+    color: #ec008c;
+}
+
+.navtabs {
+    padding: 20px;
+    float: right;
+}
+
+
+.mycontainer {
+    margin-top: 10px;
+}
+
+/* ....................... */
+
+
+
+
+/* product discription */
+
+/* gradient line */
+.vline {
+    width: 10px;
+    height: 200px;
+    background: linear-gradient(to bottom, #ec008c, #fc6767);
+    margin: -20px 50px;
+}
+
+
+.discription {
+    padding-left: 80px;
+    margin-top: -190px;
+    font-size: 22px;
+}
+
+.product {
+    padding-left: 150px;
+    padding-top: 150px;
+}
+
+.p1 {
+    font-size: larger;
+    color: rgb(102, 102, 102);
+    margin-top: 20px;
+}
+
+.p2 {
+    font-size: medium;
+    color: grey;
+}
+
+.price {
+    font-size: 24px;
+    margin-top: 20px;
+}
+
+.buy {
+    font-size: 15px;
+    color: white;
+    background: linear-gradient(to left, #ec008c, #fc6767);
+    width: 180px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.buy:hover{
+     color: white;
+     transform: scale(1.1);
+}
+
+.ps4{
+    padding-top: 0px;
+}
+
+
+.container{
+    width: 800px;
+    height: 450px;
+    background:linear-gradient(to right, #ec0056, #fc6767);
+    float:right;
+    margin-top: -400px;
+    border-radius: 10px;
+}
+
+.imgc{
+    width:35%;
+    height: auto;
+    float:right;
+    margin-top: -380px;
+    margin-right: 300px;
+}
+
+.imgc2{
+    float:right;
+    margin-top:-250px;
+    margin-right: 205px;
+    width: 3%;
+    height: auto;
+}
+
+.cart{
+    float:right;
+    margin-right: 8%;
+    margin-top: -16%;
+    color: white;
+}
+
+footer{
+    text-align: center;
+    padding:20px;
+    width:100%;
+    height:20px;
+    background-color: #333;
+    color: white;
+    font-size: 16px;
+    margin-top: 15%;
+}
+
+.web2{
+    margin-bottom: 40%;
+}
